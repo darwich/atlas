@@ -1,0 +1,14 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-logo="https://bit.ly/2V9wFGS" group-title="grillade",grillade
+https://bit.ly/2V9wFGS
+#EXTINF:-1 tvg-logo="https://bit.ly/2BzVa8Y" group-title="plat sandwich",plat sandwich
+https://bit.ly/2BzVa8Y
+#EXTINF:-1 tvg-logo="https://bit.ly/37WlGFN" group-title="Poisson",Poisson
+https://bit.ly/37WlGFN
+#EXTINF:-1 tvg-logo="https://bit.ly/2YoOovR" group-title="poulet atlas",poulet atlas
+https://bit.ly/2YoOovR
+#EXTINF:-1 tvg-logo="https://bit.ly/3fNnuDJ" group-title="poulet1",poulet1
+https://bit.ly/3fNnuDJ
+#EXTINF:-1 tvg-logo="https://bit.ly/2V67rJe" group-title="salades",salades
+https://bit.ly/2V67rJe
